@@ -1,0 +1,32 @@
+
+.main
+{
+    
+    box-sizzing:border-box;
+    
+    height: 500px;
+    width:50%;
+    margin-top: 15%;
+    margin-left:25%;
+    margin-right:25%;
+    text-align: center;
+}
+.main button
+{
+    width:35em;
+    height:4em;
+    transition: background 0.4s;
+    border-radius: 40px;
+}
+.main h1
+{
+   background-color: black;
+   color:aliceblue;
+   border-radius: 30px;
+   
+}
+.main button:hover
+{
+    background-color: black;
+    color:wheat;
+}
